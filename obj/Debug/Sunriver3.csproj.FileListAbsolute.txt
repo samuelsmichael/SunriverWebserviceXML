@@ -1,0 +1,10 @@
+C:\Documents and Settings\Mike Samuels\My Documents\Visual Studio 2008\Projects\Sunriver3\Sunriver3\bin\Sunriver3.dll
+C:\Documents and Settings\Mike Samuels\My Documents\Visual Studio 2008\Projects\Sunriver3\Sunriver3\bin\Sunriver3.pdb
+C:\Documents and Settings\Mike Samuels\My Documents\Visual Studio 2008\Projects\Sunriver3\Sunriver3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mike Samuels\My Documents\Visual Studio 2008\Projects\Sunriver3\Sunriver3\obj\Debug\Sunriver3.dll
+C:\Documents and Settings\Mike Samuels\My Documents\Visual Studio 2008\Projects\Sunriver3\Sunriver3\obj\Debug\Sunriver3.pdb
+C:\Users\Diamond\Documents\moi\DiamondSoftware\Jason_Sunriver\WebService\Original\Sunriver3\bin\Sunriver3.dll
+C:\Users\Diamond\Documents\moi\DiamondSoftware\Jason_Sunriver\WebService\Original\Sunriver3\bin\Sunriver3.pdb
+C:\Users\Diamond\Documents\moi\DiamondSoftware\Jason_Sunriver\WebService\Original\Sunriver3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diamond\Documents\moi\DiamondSoftware\Jason_Sunriver\WebService\Original\Sunriver3\obj\Debug\Sunriver3.dll
+C:\Users\Diamond\Documents\moi\DiamondSoftware\Jason_Sunriver\WebService\Original\Sunriver3\obj\Debug\Sunriver3.pdb
